@@ -58,12 +58,14 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
   * [Part 7: Compound Statements](https://norasandler.com/2018/03/14/Write-a-Compiler-7.html)
   * [Part 8: Loops](https://norasandler.com/2018/04/10/Write-a-Compiler-8.html)
 * [Implementing a Language with LLVM](https://llvm.org/docs/tutorial/#kaleidoscope-implementing-a-language-with-llvm)
+* [Meta Crush Saga: a C++17 compile-time game](https://jguegant.github.io//jguegant.github.io/blogs/tech/meta-crush-saga.html)
 * [High-Performance Matrix Multiplication](https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0)
 * Space Invaders from Scratch
   * [Part 1](http://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html)
   * [Part 2](http://nicktasios.nl/posts/space-invaders-from-scratch-part-2.html)
   * [Part 3](http://nicktasios.nl/posts/space-invaders-from-scratch-part-3.html)
   * [Part 4](http://nicktasios.nl/posts/space-invaders-from-scratch-part-4.html)
+  * [Part 5](http://nicktasios.nl/posts/space-invaders-from-scratch-part-5.html)
 * [Tetris Tutorial in C++ Platform Independent](http://javilop.com/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners/)
 * Writing a Linux Debugger
   * [Part 1: Setup](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
@@ -355,6 +357,9 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 * [Building a Gas Pump Scanner with OpenCV/Python/iOS](https://hackernoon.com/building-a-gas-pump-scanner-with-opencv-python-ios-116fe6c9ae8b)
 * [Build a Distributed Streaming System with Python and Kafka](https://scotch.io/tutorials/build-a-distributed-streaming-system-with-apache-kafka-and-python)
 * [Writing a basic x86-64 JIT compiler from scratch in stock Python](https://csl.name/post/python-jit/)
+* Making a low level (Linux) debugger
+  * [Part 1](https://blog.asrpo.com/making_a_low_level_debugger)
+  * [Part 2: C](https://blog.asrpo.com/making_a_low_level_debugger_part_2)
 
 ## Go:
 
